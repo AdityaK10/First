@@ -16,7 +16,7 @@ public class functions {
 
 	private WebDriver driver;
 	
-	//Starting the driver
+	
 	public  void driverSetup() throws Exception {
 				
 	ReadExcel.setExcelFile();
